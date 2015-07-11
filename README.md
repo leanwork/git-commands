@@ -1,5 +1,4 @@
 # git-commands
-Git - Comandos úteis
 
 1. Adicionar novo servidor remoto
   
