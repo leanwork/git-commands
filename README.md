@@ -1,4 +1,4 @@
-# Comandos Básicos do Git
+# Git - Comandos Úteis
 
 1. Adicionar novo servidor remoto
   
